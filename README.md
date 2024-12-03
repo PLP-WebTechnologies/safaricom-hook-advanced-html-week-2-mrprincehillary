@@ -46,3 +46,6 @@ Design a user registration form with the following requirements:
 A user-friendly registration form that prevents submission if required fields are not filled correctly.  
 
 ---
+output 
+![image](https://github.com/user-attachments/assets/60539b81-8a8b-474a-8837-21acb891e10c)
+
