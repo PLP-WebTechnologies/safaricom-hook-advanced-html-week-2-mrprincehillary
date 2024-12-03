@@ -1,4 +1,7 @@
 ### Assignment: Building a Multimedia Webpage and a Registration Form  
+## Registration Form
+![image](https://github.com/user-attachments/assets/e24aa648-3ee2-45eb-b1a7-b796d05ed7d6)
+
 
 #### Objective: 
 The goal of this assignment is to create a multimedia-rich webpage featuring audio and video elements and design a simple registration form with built-in HTML validation.  
